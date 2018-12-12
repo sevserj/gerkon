@@ -26,6 +26,9 @@ void loop() {
   Serial.println("WiFi connected");
   }}}
 
+
+
+
 /*
 //Монитор пина
 while (digitalRead(Pin) == 0) 
